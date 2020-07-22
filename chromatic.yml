@@ -19,4 +19,4 @@ jobs:
           # our project token, to see how to obtain it
           # refer to https://www.learnstorybook.com/intro-to-storybook/react/en/deploy/
           projectToken: xcil2tr6r1i
-          token: ${{ secrets.TASKBOX_CI }}
+          token: ${{ chromatic_8601b88b_8367_49a7_9566_d2e21912a186 }}
